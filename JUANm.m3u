@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 ,NOTCIA NICARAGUA
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+
+#EXTINF:-1 ,best cable
+https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,tv peru
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w264670782.m3u8
+
+#EXTINF:-1 ,antares tv
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w511004299.m3u8
+
+#EXTINF:-1 ,cablevision
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w511004299.m3u8
+
+#EXTINF:-1 ,catacaos
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w264670782.m3u8
+
+#EXTINF:-1 ,cdn
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/chunklist_w1579995991.m3u8
+
+#EXTINF:-1 ,pelis
+https://video.misistemareseller.com/corporationhc/corporationhc/chunklist_w1783709262.m3u8
+
+#EXTINF:-1 ,cdnh4
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w511004299.m3u8
+
+#EXTINF:-1 ,ovacion}
+https://tv.oyotunstream.com:1936/master/master/chunklist_w765918335.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 ,panamericana tv
+https://video.misistemareseller.com/corporationhc/corporationhc/chunklist_w1783709262.m3u8
